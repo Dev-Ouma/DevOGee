@@ -56,32 +56,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ### 💻 `$ whoami`
 
-```bash
-$ whoami
-godfrey-ouma-wabwire
-
-$ cat /etc/profile.d/developer.conf
-NAME        = "Godfrey Ouma Wabwire"
-ROLE        = "ICT LMS Administrator | Systems Engineer"
-LOCATION    = "Nairobi, Kenya"
-EMPLOYER    = "Open University of Kenya"
-MSc         = "Computer Science @ Maseno University (In Progress)"
-STACK       = "PHP · Python · JavaScript · SQL · Moodle · STACK"
-AI_ML       = "IBM Certified AI Practitioner | HCIA-AI (Huawei)"
-CLOUD       = "HCIA Cloud & Storage"
-NETWORKING  = "CCNA Networking Fundamentals"
-RESEARCH    = "STACK · Learning Analytics · EdTech AI"
-PUBLISHED   = "IEEE · ACM Conference Proceedings"
-PM          = "PMP / PRINCE2 Foundations"
-STATUS      = "Open to collaboration 🤝"
-COFFEE      = "undefined"  # Still running performance tests...
-
-$ uptime
-System has been learning continuously. No downtime detected.
-
-$ echo $MOTTO
-"Where mathematics meets code, magic happens."
-```
+<p align="center">
+  <img src="terminal-hack.svg" alt="DevOGee Animated Cyber Terminal" width="100%" />
+</p>
 
 ---
 

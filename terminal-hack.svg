@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 520" width="850" height="520">
+  <rect width="850" height="520" rx="10" fill="#0d1117"/>
+  <!-- Window title and buttons -->
+  <rect width="850" height="38" rx="10" fill="#161b22"/>
+  <rect y="26" width="850" height="12" fill="#161b22"/>
+  <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+  <text x="425" y="24" fill="#8b949e" font-family="'Courier New', Courier, monospace" font-size="12" text-anchor="middle">godfrey@macbook-pro:~</text>
+
+  <clipPath id="line0">
+    <rect x="20" y="51" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="1.0s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="65" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line0)">
+    $ whoami
+  </text>
+  <clipPath id="line1">
+    <rect x="20" y="69" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="1.5s" dur="0.2s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="83" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line1)">
+    godfrey-ouma-wabwire
+  </text>
+  <clipPath id="line3">
+    <rect x="20" y="105" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="2.4s" dur="1.75s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="119" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line3)">
+    $ cat /etc/profile.d/developer.conf
+  </text>
+  <clipPath id="line4">
+    <rect x="20" y="123" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="4.25s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="137" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line4)">
+    NAME        = "Godfrey Ouma Wabwire"
+  </text>
+  <clipPath id="line5">
+    <rect x="20" y="141" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="4.75s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="155" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line5)">
+    ROLE        = "ICT LMS Administrator | Systems Engineer"
+  </text>
+  <clipPath id="line6">
+    <rect x="20" y="159" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="5.25s" dur="0.2s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="173" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line6)">
+    LOCATION    = "Nairobi, Kenya"
+  </text>
+  <clipPath id="line7">
+    <rect x="20" y="177" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="5.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="191" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line7)">
+    EMPLOYER    = "Open University of Kenya"
+  </text>
+  <clipPath id="line8">
+    <rect x="20" y="195" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="6.05s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="209" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line8)">
+    MSc         = "Computer Science @ Maseno University (In Progress)"
+  </text>
+  <clipPath id="line9">
+    <rect x="20" y="213" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="6.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="227" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line9)">
+    STACK       = "PHP · Python · JavaScript · SQL · Moodle · STACK"
+  </text>
+  <clipPath id="line10">
+    <rect x="20" y="231" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="7.05s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="245" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line10)">
+    AI_ML       = "IBM Certified AI Practitioner | HCIA-AI (Huawei)"
+  </text>
+  <clipPath id="line11">
+    <rect x="20" y="249" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="7.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="263" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line11)">
+    CLOUD       = "HCIA Cloud &amp; Storage"
+  </text>
+  <clipPath id="line12">
+    <rect x="20" y="267" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="8.05s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="281" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line12)">
+    NETWORKING  = "CCNA Networking Fundamentals"
+  </text>
+  <clipPath id="line13">
+    <rect x="20" y="285" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="8.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="299" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line13)">
+    RESEARCH    = "STACK · Learning Analytics · EdTech AI"
+  </text>
+  <clipPath id="line14">
+    <rect x="20" y="303" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="9.05s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="317" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line14)">
+    PUBLISHED   = "IEEE · ACM Conference Proceedings"
+  </text>
+  <clipPath id="line15">
+    <rect x="20" y="321" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="9.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="335" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line15)">
+    PM          = "PMP / PRINCE2 Foundations"
+  </text>
+  <clipPath id="line16">
+    <rect x="20" y="339" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="10.05s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="353" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line16)">
+    STATUS      = "Open to collaboration 🤝"
+  </text>
+  <clipPath id="line17">
+    <rect x="20" y="357" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="10.55s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="371" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line17)">
+    COFFEE      = "undefined"  # Still running performance tests...
+  </text>
+  <clipPath id="line19">
+    <rect x="20" y="393" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="11.65s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="407" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line19)">
+    $ uptime
+  </text>
+  <clipPath id="line20">
+    <rect x="20" y="411" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="12.15s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="425" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line20)">
+    System has been learning continuously. No downtime detected.
+  </text>
+  <clipPath id="line22">
+    <rect x="20" y="447" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="13.25s" dur="0.65s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="461" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line22)">
+    $ echo $MOTTO
+  </text>
+  <clipPath id="line23">
+    <rect x="20" y="465" width="0" height="20">
+      <animate attributeName="width" from="0" to="800" begin="14.0s" dur="0.4s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="20" y="479" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" clip-path="url(#line23)">
+    "Where mathematics meets code, magic happens."
+  </text>
+  <!-- Blinking cursor -->
+  <text x="20" y="497" fill="#10FF10" font-family="'Courier New', Courier, monospace" font-size="14" opacity="0">
+    █
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="1s" begin="14.9s" repeatCount="indefinite" />
+  </text>
+</svg>
