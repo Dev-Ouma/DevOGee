@@ -1,6 +1,6 @@
 <!-- Capsule Render Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a3d62,100:10FF10&height=200&section=header&text=Godfrey%20OUMA&fontSize=50&fontColor=10FF10&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Computer%20Scientist%20%7C%20IT%20Consultant&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a3d62,100:10FF10&height=200&section=header&text=DevOuma&fontSize=50&fontColor=10FF10&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Computer%20Scientist%20%7C%20IT%20Consultant&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Original animation -->
@@ -18,7 +18,7 @@
 
 ---
 
-# 👋 Hello, I'm Godfrey OUMA!
+# 👋 Hello, I'm DevOuma!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=10FF10&width=950&lines=>+Systems+Engineer+%7C+Computer+Scientist+and+Mathematical+Scientist+%7C+IT+Consultant" alt="Terminal Typing Effect" />
 
@@ -114,7 +114,7 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 <p align="left">
   <a href="https://github.com/DevOGee">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevOGee&count_private=true&show_icons=true&theme=radical" alt="Godfrey's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevOGee&count_private=true&show_icons=true&theme=radical" alt="DevOuma's GitHub Stats" />
   </a>
   <a href="https://github.com/DevOGee">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOGee&layout=compact&theme=radical" alt="Top Languages" />
