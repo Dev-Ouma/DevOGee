@@ -4,10 +4,19 @@
 </p>
 
 <!-- Original animation -->
-<!-- Ensure you upload animation.svg into your repository so this image displays! -->
 <p align="center">
   <img src="animation.svg" alt="Animated Galaxy of Neon Diamonds and Stars" width="100%" />
 </p>
+
+---
+
+### 🖥️ `$ neofetch`
+
+<p align="center">
+  <img src="neofetch.svg" alt="DevOGee Neofetch Terminal Card" width="100%" />
+</p>
+
+---
 
 # 👋 Hello, I'm Godfrey OUMA!
 
@@ -19,12 +28,15 @@
 
 I'm a Computer Scientist and Mathematical Scientist and IT Consultant with a strong passion for Open Source Software and DevOps. Currently pursuing an MSc in Computer Science, I specialize in developing robust IT solutions and infrastructure. With expertise in server administration, database management, and full-stack development, I bridge the gap between hardware and software to create efficient, scalable solutions.
 
+![Last Commit](https://img.shields.io/github/last-commit/DevOGee/DevOGee?style=flat-square&color=10FF10&label=Last%20Push&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=DevOGee&style=flat-square&color=00b4d8&label=Profile+Views)
+
 [LinkedIn](https://www.linkedin.com/in/godfrey-godson) · [Email](mailto:gee.mwerevu@gmail.com)
 
 ---
 
 ### 🔎 State & Focus
-- 📍 **Location:** Nairobi, Kenya *(Update if needed)*
+- 📍 **Location:** Nairobi, Kenya
 - 🔭 **Current Focus:** Pursuing an MSc in Computer Science. My work focuses on implementing modern technologies to solve real-world problems.
 - ➗ **Research & Learning:** I'm particularly intrigued by the transformative potential of **STACK** (System for Teaching and Assessment using a Computer Algebra Kernel).
 - 💡 **Status:** Open to collaboration on IT consulting, DevOps, and backend engineering projects.
@@ -42,6 +54,49 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ---
 
+### 💻 `$ whoami`
+
+```bash
+$ whoami
+godfrey-ouma-wabwire
+
+$ cat /etc/profile.d/developer.conf
+NAME        = "Godfrey Ouma Wabwire"
+ROLE        = "ICT LMS Administrator | Systems Engineer"
+LOCATION    = "Nairobi, Kenya"
+EMPLOYER    = "Open University of Kenya"
+MSc         = "Computer Science @ Maseno University (In Progress)"
+STACK       = "PHP · Python · JavaScript · SQL · Moodle · STACK"
+AI_ML       = "IBM Certified AI Practitioner | HCIA-AI (Huawei)"
+CLOUD       = "HCIA Cloud & Storage"
+NETWORKING  = "CCNA Networking Fundamentals"
+RESEARCH    = "STACK · Learning Analytics · EdTech AI"
+PUBLISHED   = "IEEE · ACM Conference Proceedings"
+PM          = "PMP / PRINCE2 Foundations"
+STATUS      = "Open to collaboration 🤝"
+COFFEE      = "undefined"  # Still running performance tests...
+
+$ uptime
+System has been learning continuously. No downtime detected.
+
+$ echo $MOTTO
+"Where mathematics meets code, magic happens."
+```
+
+---
+
+### 💡 Quote of the Day
+
+<!-- QUOTE_START -->
+> *"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."*
+>
+> — **William Paul Thurston**
+<!-- QUOTE_END -->
+
+> 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
+
+---
+
 ### 🔧 Skills & Tech Stack
 
 <!-- Animated Skill Icons -->
@@ -51,10 +106,11 @@ I love turning complex mathematical logic into production-ready software. Holdin
   </a>
 </p>
 
-<!-- Original flat badges kept too -->
 <div align="left">
   <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />
   <img src="https://img.shields.io/badge/STACK-005C8A?style=for-the-badge&logoColor=white" alt="STACK" />
+  <img src="https://img.shields.io/badge/IBM%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI" />
+  <img src="https://img.shields.io/badge/Huawei%20HCIA-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei HCIA" />
 </div>
 
 ---
@@ -90,6 +146,19 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ---
 
+### 📊 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOGee&theme=github_dark" width="100%" alt="Profile Details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevOGee&theme=github_dark" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevOGee&theme=github_dark" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOGee&theme=github_dark" width="32%" alt="Stats"/>
+</p>
+
+---
+
 ### 📈 Contribution Activity Graph
 
 <p align="center">
@@ -116,6 +185,19 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ---
 
+### 🗺️ Visitor World Map
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/DevOGee/count.svg" alt="Visitor Count" />
+</p>
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c3ab" title="Visit tracker">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=your-map-id&cl=ffffff&w=400" alt="Visitor Map" />
+  </a>
+</p>
+
+---
+
 ### 📬 Let's collaborate
 
 If you have a product idea, need help with server management, or want to discuss the intersection of Mathematics and Computer Science—let's chat!
@@ -123,6 +205,7 @@ If you have a product idea, need help with server management, or want to discuss
 <p align="left">
   <a href="mailto:gee.mwerevu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/godfrey-godson"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/DevOGee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
