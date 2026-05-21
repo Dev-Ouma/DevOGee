@@ -68,7 +68,7 @@
 
   <!-- Info rows -->
   <text x="220" y="117"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">OS:         </tspan><tspan fill="#f0f6fc">Ubuntu Server 22.04 LTS</tspan></text>
-  <text x="220" y="136"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">Host:       </tspan><tspan fill="#f0f6fc">Open University of Kenya</tspan></text>
+  <text x="220" y="136"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">Host:       </tspan><tspan fill="#f0f6fc">wabwirelab</tspan></text>
   <text x="220" y="155"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">Role:       </tspan><tspan fill="#f0f6fc">ICT LMS Administrator</tspan></text>
   <text x="220" y="174"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">Shell:      </tspan><tspan fill="#f0f6fc">bash 5.1 + zsh</tspan></text>
   <text x="220" y="193"  font-family="'Courier New', Courier, monospace" font-size="12.5"><tspan fill="#58a6ff">Lang:       </tspan><tspan fill="#f0f6fc">PHP · Python · JS · SQL</tspan></text>
