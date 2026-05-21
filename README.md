@@ -155,6 +155,12 @@ I love turning complex mathematical logic into production-ready software. Holdin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevOGee&theme=react-dark&hide_border=true&area=true&color=10FF10&line=10FF10&point=ffffff" alt="Contribution Activity Graph" width="100%" />
 </p>
 
+### 🌟 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -181,8 +187,8 @@ I love turning complex mathematical logic into production-ready software. Holdin
   <img src="https://profile-counter.glitch.me/DevOGee/count.svg" alt="Visitor Count" />
 </p>
 <p align="center">
-  <a href="https://clustrmaps.com/site/1c3ab" title="Visit tracker">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=your-map-id&cl=ffffff&w=400" alt="Visitor Map" />
+  <a href="https://info.flagcounter.com/DevOGee">
+    <img src="https://s11.flagcounter.com/map/DevOGee/size_m/txt_ffffff/border_0d1117/pageviews_1/viewers_0/flags_0/" alt="Flag Counter World Map" border="0" />
   </a>
 </p>
 
