@@ -1,3 +1,9 @@
+<!-- Capsule Render Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0a3d62,100:10FF10&height=200&section=header&text=Godfrey%20OUMA&fontSize=50&fontColor=10FF10&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Computer%20Scientist%20%7C%20IT%20Consultant&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Original animation -->
 <!-- Ensure you upload animation.svg into your repository so this image displays! -->
 <p align="center">
   <img src="animation.svg" alt="Animated Galaxy of Neon Diamonds and Stars" width="100%" />
@@ -9,7 +15,9 @@
 
 **Bridging mathematics and technology to create innovative solutions.**
 
-I'm a Computer Scientist and Mathematical Scientist and IT Consultant with a strong passion for Open Source Software and DevOps. Currently pursuing an MSc in Computer Science, I specialize in developing robust IT solutions and infrastructure. With expertise in server administration, database management, and full-stack development, I bridge the gap between hardware and software to create efficient, scalable solutions. 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+
+I'm a Computer Scientist and Mathematical Scientist and IT Consultant with a strong passion for Open Source Software and DevOps. Currently pursuing an MSc in Computer Science, I specialize in developing robust IT solutions and infrastructure. With expertise in server administration, database management, and full-stack development, I bridge the gap between hardware and software to create efficient, scalable solutions.
 
 [LinkedIn](https://www.linkedin.com/in/godfrey-godson) · [Email](mailto:gee.mwerevu@gmail.com)
 
@@ -36,18 +44,26 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ### 🔧 Skills & Tech Stack
 
+<!-- Animated Skill Icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,postgres,python,nodejs,react,php,js,html,css,git,github,vscode,bash,mysql&perline=8" alt="Skill Icons" />
+  </a>
+</p>
+
+<!-- Original flat badges kept too -->
 <div align="left">
-  <!-- Feel free to change these or add more based on your exact languages/frameworks -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />
   <img src="https://img.shields.io/badge/STACK-005C8A?style=for-the-badge&logoColor=white" alt="STACK" />
 </div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevOGee&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" alt="DevOGee's Trophies" />
+</p>
 
 ---
 
@@ -72,7 +88,15 @@ I love turning complex mathematical logic into production-ready software. Holdin
   </a>
 </p>
 
-### 🐍 Contribution Activity
+---
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevOGee&theme=react-dark&hide_border=true&area=true&color=10FF10&line=10FF10&point=ffffff" alt="Contribution Activity Graph" width="100%" />
+</p>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -84,9 +108,17 @@ I love turning complex mathematical logic into production-ready software. Holdin
 
 ---
 
-### 📬 Let’s collaborate
+### 😄 Dev Joke of the Day
 
-If you have a product idea, need help with server management, or want to discuss the intersection of Mathematics and Computer Science—let’s chat!
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%2310FF10&aColor=%23ffffff&bgColor=%230d0221&borderColor=%2310FF10" alt="Dev Joke" />
+</p>
+
+---
+
+### 📬 Let's collaborate
+
+If you have a product idea, need help with server management, or want to discuss the intersection of Mathematics and Computer Science—let's chat!
 
 <p align="left">
   <a href="mailto:gee.mwerevu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -95,4 +127,9 @@ If you have a product idea, need help with server management, or want to discuss
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevOGee&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<!-- Capsule Render Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10FF10,50:0a3d62,100:0d0221&height=120&section=footer" width="100%" />
 </p>
