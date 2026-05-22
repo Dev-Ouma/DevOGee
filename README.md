@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."*
+> *"Learning never exhausts the mind."*
 >
-> — **William Paul Thurston**
+> — **Leonardo da Vinci**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
