@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Learning never exhausts the mind."*
+> *"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."*
 >
-> — **Leonardo da Vinci**
+> — **Maimonides**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
