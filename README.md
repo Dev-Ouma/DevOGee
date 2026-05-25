@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Pure mathematics is, in its way, the poetry of logical ideas."*
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
 >
-> — **Albert Einstein**
+> — **Edsger W. Dijkstra**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
