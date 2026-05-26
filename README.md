@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+> *"Education is not the filling of a pail, but the lighting of a fire."*
 >
-> — **Edsger W. Dijkstra**
+> — **W.B. Yeats**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
