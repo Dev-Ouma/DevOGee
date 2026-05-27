@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Education is not the filling of a pail, but the lighting of a fire."*
+> *"The only way to learn a new programming language is by writing programs in it."*
 >
-> — **W.B. Yeats**
+> — **Dennis Ritchie**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
