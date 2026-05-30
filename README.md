@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Open source is not about being anti-commercial. It's about being pro-community."*
+> *"The most disastrous thing that you can ever learn is your first programming language."*
 >
-> — **Anonymous**
+> — **Alan Kay**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
