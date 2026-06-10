@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"It is not enough to be in the right place at the right time. You should also have an open mind at the right time."*
+> *"Without mathematics, there's nothing you can do. Everything around you is mathematics."*
 >
-> — **Paul Erdős**
+> — **Shakuntala Devi**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
