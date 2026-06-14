@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"To understand recursion, one must first understand recursion."*
+> *"An algorithm must be seen to be believed."*
 >
-> — **Anonymous**
+> — **Donald Knuth**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
