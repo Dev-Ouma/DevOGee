@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"The most disastrous thing that you can ever learn is your first programming language."*
 >
-> — **Harold Abelson**
+> — **Alan Kay**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
