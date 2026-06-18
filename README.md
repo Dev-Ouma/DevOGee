@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"The most disastrous thing that you can ever learn is your first programming language."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **Alan Kay**
+> — **John Johnson**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
