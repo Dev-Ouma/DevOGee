@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Talk is cheap. Show me the code."*
 >
-> — **John Johnson**
+> — **Linus Torvalds**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
