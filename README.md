@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"An algorithm must be seen to be believed."*
+> *"The function of good software is to make the complex appear simple."*
 >
-> — **Donald Knuth**
+> — **Grady Booch**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
