@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"The function of good software is to make the complex appear simple."*
+> *"God made the integers, all else is the work of man."*
 >
-> — **Grady Booch**
+> — **Leopold Kronecker**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
