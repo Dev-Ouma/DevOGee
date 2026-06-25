@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"God made the integers, all else is the work of man."*
+> *"A good proof is one that makes us wiser."*
 >
-> — **Leopold Kronecker**
+> — **Yuri Manin**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
