@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Computer science is no more about computers than astronomy is about telescopes."*
+> *"Debugging is twice as hard as writing the code in the first place."*
 >
-> — **Edsger W. Dijkstra**
+> — **Brian Kernighan**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
