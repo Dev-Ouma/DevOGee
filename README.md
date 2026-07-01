@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"The art of doing mathematics consists in finding that special case which contains all the germs of generality."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **David Hilbert**
+> — **John Johnson**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
