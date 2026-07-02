@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"First, solve the problem. Then, write the code."*
+> *"Education is not the filling of a pail, but the lighting of a fire."*
 >
-> — **John Johnson**
+> — **W.B. Yeats**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
