@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Education is not the filling of a pail, but the lighting of a fire."*
+> *"The art of doing mathematics consists in finding that special case which contains all the germs of generality."*
 >
-> — **W.B. Yeats**
+> — **David Hilbert**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
