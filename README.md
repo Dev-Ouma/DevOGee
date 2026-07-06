@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"It is not enough to be in the right place at the right time. You should also have an open mind at the right time."*
+> *"The function of good software is to make the complex appear simple."*
 >
-> — **Paul Erdős**
+> — **Grady Booch**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
