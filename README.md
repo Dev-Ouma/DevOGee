@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"The function of good software is to make the complex appear simple."*
+> *"Data is the new oil, and the ability to refine it is the new engineering."*
 >
-> — **Grady Booch**
+> — **Anonymous**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
