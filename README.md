@@ -65,7 +65,7 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Weeks of coding can save you hours of planning."*
+> *"Data is the new oil, and the ability to refine it is the new engineering."*
 >
 > — **Anonymous**
 <!-- QUOTE_END -->
