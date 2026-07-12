@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Technology is best when it brings people together."*
+> *"In mathematics you don't understand things. You just get used to them."*
 >
-> — **Matt Mullenweg**
+> — **John von Neumann**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
