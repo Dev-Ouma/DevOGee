@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"In mathematics you don't understand things. You just get used to them."*
+> *"First, solve the problem. Then, write the code."*
 >
-> — **John von Neumann**
+> — **John Johnson**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
