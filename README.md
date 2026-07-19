@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil."*
+> *"Imagination is more important than knowledge."*
 >
-> — **Donald Knuth**
+> — **Albert Einstein**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
