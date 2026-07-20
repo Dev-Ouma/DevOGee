@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Imagination is more important than knowledge."*
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
 >
-> — **Albert Einstein**
+> — **Harold Abelson**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
