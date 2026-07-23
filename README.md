@@ -65,9 +65,9 @@ I love turning complex mathematical logic into production-ready software. Holdin
 ### 💡 Quote of the Day
 
 <!-- QUOTE_START -->
-> *"Without mathematics, there's nothing you can do. Everything around you is mathematics."*
+> *"An algorithm must be seen to be believed."*
 >
-> — **Shakuntala Devi**
+> — **Donald Knuth**
 <!-- QUOTE_END -->
 
 > 🤖 *Auto-refreshed daily by GitHub Actions — [see the workflow](.github/workflows/update-readme.yml)*
